@@ -1,0 +1,5 @@
+12  mow-b3-link.telia.net (213.155.130.139)  134.783 ms
+13  ertelekom-ic-313399-mow-b4.c.telia.net (62.115.12.110)  142.168 ms
+14  ertelekom-ic-313399-mow-b4.c.telia.net (62.115.12.110)  142.193 ms
+15  lag-2-435.bgw01.rostov.ertelecom.ru (109.195.232.18)  159.660 ms
+16  46x147x241x130.dynamic.rostov.ertelecom.ru (46.147.241.130)  154.563 ms

@@ -1,0 +1,5 @@
+14  *
+15  219.65.112.206.static-delhi.vsnl.net.in (219.65.112.206)  236.072 ms
+16  203.122.61.78.reverse.spectranet.in (203.122.61.78)  231.340 ms
+17  119.82.64.21.reverse.spectranet.in (119.82.64.21)  233.756 ms
+18  119.82.64.21.reverse.spectranet.in (119.82.64.21)  234.589 ms

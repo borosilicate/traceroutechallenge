@@ -1,0 +1,5 @@
+13  ae15.tr00.clevohek.mwrtn.rr.com (66.109.6.71)  28.568 ms
+14  be1.rcmdkyat01r.midwest.rr.com (65.189.140.171)  41.060 ms
+15  ae1.ncvlky2701h.midwest.rr.com (65.29.29.31)  50.474 ms
+16  74.128.5.90 (74.128.5.90)  39.449 ms
+17  cpe-76-177-248-27.natcky.res.rr.com (76.177.248.27)  52.491 ms

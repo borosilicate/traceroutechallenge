@@ -1,0 +1,5 @@
+ 8  dls-b21-link.telia.net (80.91.246.75)  35.962 ms
+ 9  windstream-ic-300142-dls-bb1.c.telia.net (213.248.82.238)  26.474 ms
+10  h31.97.136.40.static.ip.windstream.net (40.136.97.31)  21.992 ms
+11  xe0-0-0-0.pe01.dlls01-tx.us.windstream.net (173.184.124.136)  22.230 ms
+12  h109.216.29.71.static.ip.windstream.net (71.29.216.109)  29.154 ms

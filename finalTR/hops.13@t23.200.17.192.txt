@@ -1,0 +1,5 @@
+ 9  ae-6.r23.dllstx09.us.bb.gin.ntt.net (129.250.4.116)  24.452 ms
+10  ae-6.r10.dllstx09.us.bb.gin.ntt.net (129.250.5.4)  20.866 ms
+11  ae-0.a00.dllstx04.us.bb.gin.ntt.net (129.250.4.170)  21.233 ms
+12  ae-2.akamai.dllstx04.us.bb.gin.ntt.net (129.250.196.82)  23.276 ms
+13  a23-200-17-192.deploy.static.akamaitechnologies.com (23.200.17.192)  24.407 ms

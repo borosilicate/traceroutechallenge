@@ -1,0 +1,5 @@
+18  149.6.58.58 (149.6.58.58)  137.414 ms
+19  rtr1-po4.pas.hel.fi.nblnet.com (83.145.255.109)  133.989 ms
+20  rtr1-po3.pit.hel.fi.nblnet.com (83.145.255.117)  137.786 ms
+21  *
+22  golf-81.srv.hosting.fi (188.117.57.81)  145.154 ms !X

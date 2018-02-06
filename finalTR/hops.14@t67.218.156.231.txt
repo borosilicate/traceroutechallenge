@@ -1,0 +1,5 @@
+10  be2930.ccr32.phx01.atlas.cogentco.com (154.54.42.77)  42.019 ms
+11  be2932.ccr42.lax01.atlas.cogentco.com (154.54.45.162)  53.462 ms
+12  multacom-corp.demarc.cogentco.com (38.99.219.58)  53.324 ms
+13  *
+14  67.218.156.231.16clouds.com (67.218.156.231)  53.258 ms

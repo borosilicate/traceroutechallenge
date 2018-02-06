@@ -1,0 +1,5 @@
+ 5  pr-pf.net.uga.edu (128.192.247.5)  1.105 ms
+ 6  te0-15-0-1.ccr41.atl04.atlas.cogentco.com (38.122.46.161)  3.607 ms
+ 7  level3.atl04.atlas.cogentco.com (154.54.12.138)  3.446 ms
+ 8  *
+ 9  4.34.62.126 (4.34.62.126)  38.047 ms

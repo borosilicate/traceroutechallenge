@@ -1,0 +1,5 @@
+12  ae-1.a01.snjsca04.us.bb.gin.ntt.net (129.250.2.48)  65.412 ms
+13  ae-0.endurance.snjsca04.us.bb.gin.ntt.net (129.250.195.138)  84.603 ms
+14  162-144-240-167.unifiedlayer.com (162.144.240.167)  79.717 ms
+15  162-144-240-23.unifiedlayer.com (162.144.240.23)  79.469 ms
+16  69-195-107-50.unifiedlayer.com (69.195.107.50)  83.249 ms

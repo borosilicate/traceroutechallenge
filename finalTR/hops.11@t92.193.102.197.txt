@@ -1,0 +1,5 @@
+ 7  level3.atl04.atlas.cogentco.com (154.54.12.138)  3.382 ms
+ 8  *
+ 9  core1.fra.qsc.de (195.16.160.6)  109.115 ms
+10  srbfra11-et-48-48.qsc.de (87.234.11.38)  110.493 ms
+11  port-92-193-102-197.dynamic.qsc.de (92.193.102.197)  129.607 ms !X

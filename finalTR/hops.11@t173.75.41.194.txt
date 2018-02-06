@@ -1,0 +1,5 @@
+ 7  be2788.ccr22.atl02.atlas.cogentco.com (154.54.5.193)  4.221 ms
+ 8  154.54.11.6 (154.54.11.6)  3.632 ms
+ 9  Bundle-Ether800.PITBPA-LCR-22.verizon-gni.NET (140.222.0.33)  31.568 ms
+10  ae203-0.PITBPA-VFTTP-309.verizon-gni.net (130.81.28.69)  28.100 ms
+11  pool-173-75-41-194.pitbpa.fios.verizon.net (173.75.41.194)  28.306 ms

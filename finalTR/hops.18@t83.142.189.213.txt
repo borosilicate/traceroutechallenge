@@ -1,0 +1,5 @@
+14  be2815.ccr41.ham01.atlas.cogentco.com (154.54.38.206)  111.121 ms
+15  be2253.ccr21.waw01.atlas.cogentco.com (154.54.61.2)  128.887 ms
+16  be2511.rcr11.krk01.atlas.cogentco.com (154.54.57.86)  128.683 ms
+17  149.6.74.34 (149.6.74.34)  128.206 ms
+18  poczta.znak.com.pl (83.142.189.213)  128.199 ms

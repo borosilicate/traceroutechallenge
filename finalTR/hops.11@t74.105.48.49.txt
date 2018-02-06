@@ -1,0 +1,5 @@
+ 7  be2788.ccr22.atl02.atlas.cogentco.com (154.54.5.193)  5.180 ms
+ 8  154.54.11.6 (154.54.11.6)  3.674 ms
+ 9  *
+10  ae203-0.NWRKNJ-VFTTP-304.verizon-gni.net (100.41.139.223)  25.524 ms
+11  pool-74-105-48-49.nwrknj.fios.verizon.net (74.105.48.49)  26.151 ms

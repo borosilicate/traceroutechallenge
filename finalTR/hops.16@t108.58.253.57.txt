@@ -1,0 +1,5 @@
+12  *
+13  *
+14  ool-4353e793.dyn.optonline.net (67.83.231.147)  38.061 ms
+15  *
+16  ool-6c3afd39.static.optonline.net (108.58.253.57)  45.953 ms

@@ -1,0 +1,5 @@
+12  be2044.agr21.par01.atlas.cogentco.com (130.117.51.78)  94.403 ms
+13  sfr.demarc.cogentco.com (149.6.115.250)  94.255 ms
+14  v3790.poi1-co-2.gaoland.net (84.96.251.170)  182.912 ms
+15  86.74.20.93.rev.sfr.net (93.20.74.86)  107.116 ms
+16  73.84.158.77.rev.sfr.net (77.158.84.73)  115.454 ms

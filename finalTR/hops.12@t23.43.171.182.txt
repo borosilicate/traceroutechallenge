@@ -1,0 +1,5 @@
+ 8  ae-4.4079.rtsw.wash.net.internet2.edu (198.71.45.7)  16.761 ms
+ 9  ae-5.4079.rtsw.newy32aoa.net.internet2.edu (162.252.70.139)  21.294 ms
+10  lo-0.8.rtr.newy2.net.internet2.edu (64.57.20.215)  21.461 ms
+11  162.252.69.197 (162.252.69.197)  21.164 ms
+12  a23-43-171-182.deploy.static.akamaitechnologies.com (23.43.171.182)  21.857 ms

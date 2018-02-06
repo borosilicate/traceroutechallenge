@@ -1,0 +1,5 @@
+ 9  BR2.Amsterdam1.surf.net (213.244.164.2)  102.898 ms
+10  ae2-2.RT.BH.HRK.UA.retn.net (87.245.232.114)  146.354 ms
+11  GW-MaxNet.retn.net (87.245.243.210)  142.049 ms
+12  bb-core1-2-kh.maxnet.ua (79.171.120.122)  144.176 ms
+13  31-202-10-66-kh.maxnet.ua (31.202.10.66)  153.548 ms

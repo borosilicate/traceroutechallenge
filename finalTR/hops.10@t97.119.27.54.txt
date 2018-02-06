@@ -1,0 +1,5 @@
+ 6  te0-15-0-1.ccr41.atl04.atlas.cogentco.com (38.122.46.161)  3.772 ms
+ 7  be2788.ccr22.atl02.atlas.cogentco.com (154.54.5.193)  3.895 ms
+ 8  ctl.atl02.atlas.cogentco.com (154.54.10.222)  4.216 ms
+ 9  omah-agw2.inet.qwest.net (205.171.132.90)  28.282 ms
+10  97-119-27-54.omah.qwest.net (97.119.27.54)  30.941 ms

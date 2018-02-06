@@ -1,0 +1,5 @@
+14  *
+15  *
+16  9.red-81-46-67.customer.static.ccgg.telefonica.net (81.46.67.9)  131.125 ms
+17  9.red-81-46-67.customer.static.ccgg.telefonica.net (81.46.67.9)  120.048 ms
+18  71.red-95-121-55.dynamicip.rima-tde.net (95.121.55.71)  130.847 ms

@@ -1,0 +1,5 @@
+ 9  ae3-503-120G.ar5.ATL2.gblx.net (64.208.27.209)  3.511 ms
+10  ae2-50G.ar3.CAL1.gblx.net (67.16.186.86)  75.089 ms
+11  190.216.195-106.static.globalcrossing.com.co (190.216.195.106)  93.791 ms
+12  *
+13  dynamic-186-29-84-197.dynamic.etb.net.co (186.29.84.197)  92.114 ms

@@ -1,0 +1,5 @@
+13  be-11424-cr02.dallas.tx.ibone.comcast.net (68.86.85.22)  37.978 ms
+14  be-11524-cr02.losangeles.ca.ibone.comcast.net (68.86.87.173)  67.425 ms
+15  be-11015-cr02.sunnyvale.ca.ibone.comcast.net (68.86.86.97)  78.344 ms
+16  be-7922-ar01.santaclara.ca.sfba.comcast.net (68.86.90.94)  77.151 ms
+17  a104-96-97-42.deploy.static.akamaitechnologies.com (104.96.97.42)  77.195 ms

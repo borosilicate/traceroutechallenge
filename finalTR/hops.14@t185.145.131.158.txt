@@ -1,0 +1,5 @@
+10  adm-bb3-link.telia.net (213.155.136.99)  100.934 ms
+11  adm-b2-link.telia.net (62.115.133.247)  98.435 ms
+12  dedicolo-ic-310435-adm-b2.c.telia.net (80.239.135.162)  97.006 ms
+13  no-reverse-yet.3winfra.com (185.56.28.98)  97.028 ms
+14  abelohost-158.131.145.185.dedicated-ip.abelons.com (185.145.131.158)  98.949 ms

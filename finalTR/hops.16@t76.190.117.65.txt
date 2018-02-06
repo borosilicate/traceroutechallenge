@@ -1,0 +1,5 @@
+12  bu-ether12.vinnva0510w-bcr00.tbone.rr.com (66.109.6.31)  24.757 ms
+13  ae15.tr00.clevohek.mwrtn.rr.com (66.109.6.71)  27.959 ms
+14  be1.lsvqkydb01r.midwest.rr.com (65.189.140.167)  45.165 ms
+15  be1.lsvmkyzo01h.midwest.rr.com (65.29.31.31)  38.925 ms
+16  rrcs-76-190-117-65.central.biz.rr.com (76.190.117.65)  38.606 ms

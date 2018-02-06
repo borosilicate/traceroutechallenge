@@ -1,0 +1,5 @@
+ 7  atl-b22-link.telia.net (62.115.157.142)  3.720 ms
+ 8  dls-b21-link.telia.net (80.91.246.75)  26.293 ms
+ 9  colocrossing-ic-317201-dls-b21.c.telia.net (62.115.146.153)  26.171 ms
+10  10.2.5.34 (10.2.5.34)  26.957 ms
+11  172-245-238-201-host.colocrossing.com (172.245.238.201)  26.135 ms !X

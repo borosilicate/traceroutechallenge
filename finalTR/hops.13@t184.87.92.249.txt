@@ -1,0 +1,5 @@
+ 9  ae-6.r23.dllstx09.us.bb.gin.ntt.net (129.250.4.116)  24.462 ms
+10  ae-3.r20.chcgil09.us.bb.gin.ntt.net (129.250.4.153)  33.275 ms
+11  ae-12.r08.chcgil09.us.bb.gin.ntt.net (129.250.2.190)  29.971 ms
+12  ae-31.a00.chcgil09.us.bb.gin.ntt.net (129.250.3.159)  36.168 ms
+13  a184-87-92-249.deploy.static.akamaitechnologies.com (184.87.92.249)  34.015 ms

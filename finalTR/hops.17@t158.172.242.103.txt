@@ -1,0 +1,5 @@
+13  be3358.ccr32.mad05.atlas.cogentco.com (130.117.1.97)  113.257 ms
+14  be3379.agr22.mad05.atlas.cogentco.com (154.54.39.146)  113.170 ms
+15  te0-0-2-2.nr11.b046976-0.mad05.atlas.cogentco.com (154.25.2.50)  121.097 ms
+16  149.6.38.51 (149.6.38.51)  118.204 ms
+17  sta578.kindervit.com (158.172.242.103)  111.258 ms

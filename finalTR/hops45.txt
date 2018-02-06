@@ -1,0 +1,2 @@
+104.102.169.241
+45  a104-102-169-241.deploy.static.akamaitechnologies.com (104.102.169.241)  156.352 ms

@@ -1,0 +1,5 @@
+ 7  be2788.ccr22.atl02.atlas.cogentco.com (154.54.5.193)  55.609 ms
+ 8  154.54.11.6 (154.54.11.6)  3.697 ms
+ 9  *
+10  ae204-0.WASHDC-VFTTP-316.verizon-gni.net (130.81.223.135)  18.385 ms
+11  pool-68-238-161-228.washdc.fios.verizon.net (68.238.161.228)  28.025 ms

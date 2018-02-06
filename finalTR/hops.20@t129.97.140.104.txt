@@ -1,0 +1,5 @@
+16  *
+17  *
+18  *
+19  *
+20  www.student.math.uwaterloo.ca (129.97.140.104)  34.673 ms

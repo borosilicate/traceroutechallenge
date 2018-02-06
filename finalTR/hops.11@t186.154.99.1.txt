@@ -1,0 +1,5 @@
+ 7  atl-b22-link.telia.net (62.115.157.142)  3.594 ms
+ 8  mai-b1-link.telia.net (62.115.122.53)  18.058 ms
+ 9  empresa-ic-316510-mai-b1.c.telia.net (62.115.146.187)  86.839 ms
+10  *
+11  dynamic-186-154-99-1.dynamic.etb.net.co (186.154.99.1)  74.241 ms

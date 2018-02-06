@@ -1,0 +1,5 @@
+ 7  be2788.ccr22.atl02.atlas.cogentco.com (154.54.5.193)  3.881 ms
+ 8  154.54.11.6 (154.54.11.6)  3.684 ms
+ 9  *
+10  ae204-0.NYCMNY-VFTTP-347.verizon-gni.net (130.81.171.231)  22.649 ms
+11  pool-74-101-135-6.nycmny.fios.verizon.net (74.101.135.6)  23.567 ms

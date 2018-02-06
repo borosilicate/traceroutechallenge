@@ -1,0 +1,5 @@
+10  be3035.ccr21.den01.atlas.cogentco.com (154.54.5.89)  44.281 ms
+11  dvr-brdr-02.inet.qwest.net (63.235.41.189)  55.411 ms
+12  *
+13  *
+14  63-155-69-129.chyn.qwest.net (63.155.69.129)  79.592 ms

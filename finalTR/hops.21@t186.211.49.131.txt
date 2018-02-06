@@ -1,0 +1,5 @@
+17  radionet-247-edge-80.srr.ensite.com.br (201.49.84.182)  149.281 ms
+18  s172-29-0-h249.griffin.uga.edu (172.29.0.249)  149.381 ms
+19  186-211-62-202.radionetriopreto.com.br (186.211.62.202)  152.657 ms
+20  186-211-60-84.radionetriopreto.com.br (186.211.60.84)  160.245 ms
+21  186-211-49-131.radionetriopreto.com.br (186.211.49.131)  167.466 ms

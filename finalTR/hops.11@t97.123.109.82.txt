@@ -1,0 +1,5 @@
+ 7  be2788.ccr22.atl02.atlas.cogentco.com (154.54.5.193)  3.825 ms
+ 8  ctl.atl02.atlas.cogentco.com (154.54.10.222)  3.471 ms
+ 9  *
+10  67-42-136-78.albq.qwest.net (67.42.136.78)  53.233 ms
+11  97-123-109-82.albq.qwest.net (97.123.109.82)  64.368 ms

@@ -1,0 +1,5 @@
+15  ae22-0.0002.dbrx.02.dus.de.net.telefonica.de (62.53.13.222)  138.465 ms
+16  ae1-0.0001.corx.02.dus.de.net.telefonica.de (62.53.0.26)  128.727 ms
+17  ae1-0.0002.dbrx.01.dus.de.net.telefonica.de (62.53.16.36)  138.638 ms
+18  eth-trunk2.90.brun.0004-03.dus.de.net.telefonica.de (62.53.22.205)  137.455 ms
+19  x4db56f3a.dyn.telefonica.de (77.181.111.58)  136.924 ms !X

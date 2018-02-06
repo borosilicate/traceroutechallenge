@@ -1,0 +1,5 @@
+21  *
+22  *
+23  gw3.farahoosh.ir (94.74.128.6)  304.712 ms
+24  gw3.farahoosh.ir (94.74.128.6)  295.514 ms
+25  sharif.kish.ac.ir (94.74.138.230)  318.432 ms

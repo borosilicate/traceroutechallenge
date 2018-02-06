@@ -1,0 +1,5 @@
+ 7  level3.atl04.atlas.cogentco.com (154.54.12.138)  3.608 ms
+ 8  *
+ 9  VTR-Banda-Ancha.te4-2.ar3.SCL1.gblx.net (208.48.250.62)  123.546 ms
+10  *
+11  a104-114-235-109.deploy.static.akamaitechnologies.com (104.114.235.109)  123.568 ms

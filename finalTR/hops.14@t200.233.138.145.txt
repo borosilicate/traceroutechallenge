@@ -1,0 +1,5 @@
+10  xe-2-2-1-0.border-a.ash.ctbc.com.br (38.122.63.142)  15.240 ms
+11  ae0-0.ptx-a.spo511.algartelecom.com.br (168.197.20.190)  134.667 ms
+12  et-0-0-0-0.ptx-a.ula001.algartelecom.com.br (170.84.35.30)  156.664 ms
+13  ae1-0.edge-b.gna.algartelecom.com.br (170.84.35.238)  157.572 ms
+14  200-233-138-145.xd-dynamic.ctbcnetsuper.com.br (200.233.138.145)  158.557 ms

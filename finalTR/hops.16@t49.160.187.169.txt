@@ -1,0 +1,5 @@
+12  et-4-0-0.4079.sdn-sw.phoe.net.internet2.edu (162.252.70.22)  49.104 ms
+13  et-7-1-0.4079.rtsw.losa.net.internet2.edu (162.252.70.24)  58.373 ms
+14  et-2-0-0.4070.rtsw.sunn.net.internet2.edu (162.252.70.70)  65.621 ms
+15  paix0.tr-cps.internet2.edu (198.32.176.128)  81.572 ms
+16  49.160.187.169 (49.160.187.169)  238.128 ms

@@ -1,0 +1,30 @@
+72.247.86.50
+11  a72-247-86-50.deploy.akamaitechnologies.com (72.247.86.50)  99.748 ms
+23.211.73.93
+11  a23-211-73-93.deploy.static.akamaitechnologies.com (23.211.73.93)  24.870 ms
+186.154.99.1
+11  dynamic-186-154-99-1.dynamic.etb.net.co (186.154.99.1)  74.241 ms
+74.105.48.49
+11  pool-74-105-48-49.nwrknj.fios.verizon.net (74.105.48.49)  26.151 ms
+104.81.64.34
+11  a104-81-64-34.deploy.static.akamaitechnologies.com (104.81.64.34)  109.420 ms
+92.193.102.197
+11  port-92-193-102-197.dynamic.qsc.de (92.193.102.197)  129.607 ms !X
+97.123.109.82
+11  97-123-109-82.albq.qwest.net (97.123.109.82)  64.368 ms
+104.114.235.109
+11  a104-114-235-109.deploy.static.akamaitechnologies.com (104.114.235.109)  123.568 ms
+74.101.135.6
+11  pool-74-101-135-6.nycmny.fios.verizon.net (74.101.135.6)  23.567 ms
+71.54.186.47
+11  fl-71-54-186-47.dhcp.embarqhsd.net (71.54.186.47)  52.459 ms
+85.93.31.121
+11  host42.beatinvestment.com (85.93.31.121)  104.968 ms !X
+172.245.238.201
+11  172-245-238-201-host.colocrossing.com (172.245.238.201)  26.135 ms !X
+173.75.41.194
+11  pool-173-75-41-194.pitbpa.fios.verizon.net (173.75.41.194)  28.306 ms
+68.238.161.228
+11  pool-68-238-161-228.washdc.fios.verizon.net (68.238.161.228)  28.025 ms
+173.68.5.130
+11  pool-173-68-5-130.nycmny.east.verizon.net (173.68.5.130)  27.911 ms

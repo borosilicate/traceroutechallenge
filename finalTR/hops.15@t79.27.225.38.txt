@@ -1,0 +1,5 @@
+11  etrunk0.milano1.mil.seabone.net (195.22.209.215)  139.803 ms
+12  ibs-resid.milano1.mil.seabone.net (93.186.128.202)  138.417 ms
+13  *
+14  *
+15  host38-225-dynamic.27-79-r.retail.telecomitalia.it (79.27.225.38)  181.831 ms

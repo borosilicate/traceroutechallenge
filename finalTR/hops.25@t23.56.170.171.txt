@@ -1,0 +1,5 @@
+21  TIG-Net25-151.trueintergateway.com (122.144.25.151)  258.292 ms
+22  ppp-171-102-252-7.revip18.asianet.co.th (171.102.252.7)  260.186 ms
+23  ppp-171-102-252-7.revip18.asianet.co.th (171.102.252.7)  272.431 ms
+24  ppp-171-102-254-134.revip18.asianet.co.th (171.102.254.134)  256.542 ms
+25  a23-56-170-171.deploy.static.akamaitechnologies.com (23.56.170.171)  258.992 ms

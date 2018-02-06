@@ -1,0 +1,5 @@
+ 8  *
+ 9  INTELSAT-IN.ear2.Washington1.Level3.net (4.79.31.58)  15.873 ms
+10  mtn-nas-rt011_ge-1-45.intelsatone.net (209.159.170.179)  30.648 ms
+11  mtn-nas-rt011_ge-1-45.intelsatone.net (209.159.170.179)  30.670 ms
+12  213.185.117.81 (213.185.117.81)  617.050 ms

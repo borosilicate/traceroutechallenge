@@ -1,0 +1,5 @@
+21  avk6-vpe-3.bundle-ether1.tele2.net (130.244.71.224)  138.120 ms
+22  avk6-fgw-1.ae0-unit15.tele2.net (130.244.71.99)  125.219 ms
+23  avk6-vpe-3.vrf1257-183.bundle-ether2s16.tele2.net (130.244.41.108)  130.013 ms
+24  m90-128-208-1.cust.tele2.nl (90.128.208.1)  125.491 ms
+25  m90-128-220-26.cust.tele2.nl (90.128.220.26)  709.861 ms

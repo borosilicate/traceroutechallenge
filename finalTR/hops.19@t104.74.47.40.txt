@@ -1,0 +1,5 @@
+15  bundle-150.cor01.sjc01.ca.vocus.net (49.255.255.18)  211.120 ms
+16  BE-200.cor02.syd04.nsw.VOCUS.net.au (49.255.255.11)  220.615 ms
+17  bundle-101.bdr05.syd03.nsw.vocus.net.au (114.31.192.59)  212.029 ms
+18  asn20940.cust.bdr04.syd03.nsw.vocus.net.au (175.45.124.226)  233.584 ms
+19  a104-74-47-40.deploy.static.akamaitechnologies.com (104.74.47.40)  220.747 ms

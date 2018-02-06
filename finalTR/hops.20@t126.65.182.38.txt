@@ -1,0 +1,5 @@
+16  sl-softb-889518-0.sprintlink.net (144.223.242.102)  170.994 ms
+17  *
+18  softbank221110209198.bbtec.net (221.110.209.198)  169.153 ms
+19  softbank221110209228.bbtec.net (221.110.209.228)  169.700 ms
+20  softbank126065182038.bbtec.net (126.65.182.38)  176.246 ms !X

@@ -1,0 +1,5 @@
+12  ae2.mx1.gen.ch.geant.net (62.40.98.153)  105.460 ms
+13  ae1.mx1.mar.fr.geant.net (62.40.98.72)  111.583 ms
+14  rediris-gw.mx1.mar.fr.geant.net (62.40.124.193)  125.739 ms
+15  XE3-0-0-264.telmad.rt6.mad.red.rediris.es (130.206.206.133)  125.894 ms
+16  158.99.245.74 (158.99.245.74)  125.898 ms

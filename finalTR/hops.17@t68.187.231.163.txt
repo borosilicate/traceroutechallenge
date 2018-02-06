@@ -1,0 +1,5 @@
+13  bbr01oxfrma-bue-4.oxfr.ma.charter.com (96.34.0.50)  31.700 ms
+14  crr03oxfrma-bue-1.oxfr.ma.charter.com (96.34.2.13)  31.747 ms
+15  crr02wrcsma-bue-11.wrcs.ma.charter.com (96.34.81.191)  28.197 ms
+16  *
+17  68-187-231-163.dhcp.oxfr.ma.charter.com (68.187.231.163)  35.015 ms !X

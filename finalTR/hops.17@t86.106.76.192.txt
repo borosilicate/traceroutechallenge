@@ -1,0 +1,5 @@
+13  be2043.rcr21.mil01.atlas.cogentco.com (154.54.38.102)  120.049 ms
+14  te0-0-2-2.nr11.b019160-1.mil01.atlas.cogentco.com (154.25.7.26)  113.438 ms
+15  seeweb.demarc.cogentco.com (149.6.152.38)  116.948 ms
+16  po5.scotty.mil.seeweb.it (85.94.206.215)  115.131 ms
+17  ranford.adsender.us (86.106.76.192)  114.475 ms

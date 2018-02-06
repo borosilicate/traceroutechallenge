@@ -1,0 +1,5 @@
+ 8  be2113.ccr42.dca01.atlas.cogentco.com (154.54.24.221)  14.538 ms
+ 9  be3083.ccr41.iad02.atlas.cogentco.com (154.54.30.54)  15.546 ms
+10  38.122.63.122 (38.122.63.122)  16.202 ms
+11  216.151.181.124 (216.151.181.124)  16.183 ms
+12  a104-95-178-136.deploy.static.akamaitechnologies.com (104.95.178.136)  16.272 ms

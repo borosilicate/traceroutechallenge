@@ -1,0 +1,5 @@
+10  be2028.rcr21.dtw04.atlas.cogentco.com (154.54.6.217)  30.744 ms
+11  38.142.132.58 (38.142.132.58)  30.121 ms
+12  75.98.175.255.static.a2webhosting.com (75.98.175.255)  30.150 ms
+13  75.98.175.210.static.a2webhosting.com (75.98.175.210)  34.386 ms
+14  216.119.140.6.static.a2webhosting.com (216.119.140.6)  30.080 ms

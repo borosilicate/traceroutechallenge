@@ -1,0 +1,5 @@
+17  bbrt.hb-0-1-xe-3-1-0.ewe-ip-backbone.de (212.6.114.169)  117.142 ms
+18  bbrt.ol-1-1-xe-3-1-1.ewe-ip-backbone.de (80.228.90.225)  114.387 ms
+19  tz32000j.ewe-ip-backbone.de (212.6.114.218)  128.778 ms
+20  a81-14-249-81.net-htp.de (81.14.249.81)  123.288 ms
+21  a89-182-95-63.net-htp.de (89.182.95.63)  136.566 ms !X

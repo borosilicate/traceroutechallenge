@@ -1,0 +1,5 @@
+ 7  be2788.ccr22.atl02.atlas.cogentco.com (154.54.5.193)  4.283 ms
+ 8  ae14.cr2-atl1.ip4.gtt.net (173.205.58.93)  3.560 ms
+ 9  xe-1-3-0-97.cr1-ham3.ip4.gtt.net (89.149.186.205)  117.818 ms
+10  poruba-gw.r1.pra1.cz.as5580.net (78.152.62.178)  111.032 ms
+11  a104-81-64-34.deploy.static.akamaitechnologies.com (104.81.64.34)  109.420 ms

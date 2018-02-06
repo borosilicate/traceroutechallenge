@@ -1,0 +1,5 @@
+10  et-7-0-0.4079.sdn-sw.minn.net.internet2.edu (162.252.70.107)  29.214 ms
+11  et-7-0-0.4079.sdn-sw.miss2.net.internet2.edu (162.252.70.59)  52.365 ms
+12  lo-0.8.rtsw.seat.net.internet2.edu (64.57.20.253)  62.760 ms
+13  six-sea.netarch.akamai.com (206.81.80.113)  63.100 ms
+14  a23-43-205-154.deploy.static.akamaitechnologies.com (23.43.205.154)  62.656 ms

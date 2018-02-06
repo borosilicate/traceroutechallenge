@@ -1,0 +1,5 @@
+ 8  ebt-B11761-tcore01.spomb.embratel.net.br (200.230.230.47)  121.919 ms
+ 9  ebt-H0-2-0-0-uacc01.spomb.embratel.net.br (200.244.216.78)  120.930 ms
+10  200.211.220.27 (200.211.220.27)  123.188 ms
+11  *
+12  a72-246-136-240.deploy.akamaitechnologies.com (72.246.136.240)  120.413 ms

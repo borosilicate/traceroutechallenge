@@ -1,0 +1,5 @@
+12  ae-72-ar01.beaverton.or.bverton.comcast.net (68.86.92.206)  78.067 ms
+13  ae-54-sur03.salem.or.bverton.comcast.net (68.87.222.226)  80.693 ms
+14  po-1-1-cbr06.salem.or.bverton.comcast.net (68.87.218.186)  79.930 ms
+15  c-73-96-184-68.hsd1.or.comcast.net (73.96.184.68)  88.605 ms
+16  c-73-96-184-68.hsd1.or.comcast.net (73.96.184.68)  94.221 ms

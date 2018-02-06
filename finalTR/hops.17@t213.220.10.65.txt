@@ -1,0 +1,5 @@
+13  be3357.ccr31.mad05.atlas.cogentco.com (130.117.1.21)  115.064 ms
+14  be3374.agr21.mad05.atlas.cogentco.com (130.117.2.62)  114.718 ms
+15  te0-0-2-2.nr11.b046976-0.mad05.atlas.cogentco.com (154.25.2.50)  115.188 ms
+16  149.6.38.52 (149.6.38.52)  116.584 ms
+17  srv253.sundelt.com (213.220.10.65)  114.119 ms

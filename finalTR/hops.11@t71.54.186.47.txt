@@ -1,0 +1,5 @@
+ 7  be2788.ccr22.atl02.atlas.cogentco.com (154.54.5.193)  3.948 ms
+ 8  ctl.atl02.atlas.cogentco.com (154.54.10.222)  3.547 ms
+ 9  *
+10  rbflwnpk84.centurylink.net (75.160.223.27)  19.573 ms
+11  fl-71-54-186-47.dhcp.embarqhsd.net (71.54.186.47)  52.459 ms

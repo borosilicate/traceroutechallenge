@@ -1,0 +1,5 @@
+ 6  te0-15-0-1.ccr41.atl04.atlas.cogentco.com (38.122.46.161)  5.087 ms
+ 7  level3.atl04.atlas.cogentco.com (154.54.12.138)  3.365 ms
+ 8  *
+ 9  IP-TRANSIT.ear4.Amsterdam1.Level3.net (212.72.41.98)  94.639 ms
+10  mx195.chosenprofile.com (179.63.181.195)  98.106 ms

@@ -1,0 +1,5 @@
+17  ip5886ebf2.static.kabel-deutschland.de (88.134.235.242)  102.489 ms
+18  ip5886ed79.static.kabel-deutschland.de (88.134.237.121)  102.359 ms
+19  ip5886c2b1.static.kabel-deutschland.de (88.134.194.177)  116.122 ms
+20  *
+21  ip4d148a32.dynamic.kabel-deutschland.de (77.20.138.50)  114.812 ms !X

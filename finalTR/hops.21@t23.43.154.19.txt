@@ -1,0 +1,5 @@
+17  ae0-10.akbr7.global-gateway.net.nz (202.50.232.38)  186.594 ms
+18  irb-10.aksw9.global-gateway.net.nz (122.56.127.58)  191.534 ms
+19  ae9-45.akcr11.global-gateway.net.nz (122.56.127.225)  191.093 ms
+20  210.55.99.10 (210.55.99.10)  191.271 ms
+21  a23-43-154-19.deploy.static.akamaitechnologies.com (23.43.154.19)  190.100 ms

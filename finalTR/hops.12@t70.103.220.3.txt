@@ -1,0 +1,5 @@
+ 8  et-0-1-2.4070.rtsw.chic.net.internet2.edu (198.71.45.60)  21.399 ms
+ 9  lo-0.8.rtr.eqch.net.internet2.edu (64.57.29.130)  21.406 ms
+10  br01.chcgildt.integra.net (206.223.119.101)  22.966 ms
+11  tg0-3-0-0.ar12.sntdcabl.integra.net (209.63.81.194)  67.659 ms
+12  70.103.220.3 (70.103.220.3)  67.837 ms

@@ -1,0 +1,5 @@
+ 9  nyc2-edge-01.inet.qwest.net (205.171.134.34)  21.800 ms
+10  *
+11  *
+12  *
+13  a104-91-65-244.deploy.static.akamaitechnologies.com (104.91.65.244)  21.811 ms

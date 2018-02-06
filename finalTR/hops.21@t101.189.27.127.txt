@@ -1,0 +1,5 @@
+17  bundle-ether1.ken-core10.sydney.telstra.net (203.50.6.96)  198.259 ms
+18  bundle-ether12.win-core10.melbourne.telstra.net (203.50.11.123)  208.857 ms
+19  bundle-ether1.win-edge902.melbourne.telstra.net (203.50.11.110)  207.086 ms
+20  144.130.211.4 (144.130.211.4)  206.723 ms
+21  101.189.27.127 (101.189.27.127)  226.883 ms

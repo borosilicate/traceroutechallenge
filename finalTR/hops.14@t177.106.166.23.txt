@@ -1,0 +1,5 @@
+10  ae0-0.ptx-a.spo511.algartelecom.com.br (168.197.20.190)  150.938 ms
+11  et-5-1-0-0.core-a.spo511.algartelecom.com.br (170.84.34.205)  134.634 ms
+12  et-10-0-1-0.ptx-b.ula001.algartelecom.com.br (170.84.34.202)  147.360 ms
+13  168-197-022-097.static.algartelecom.com.br (168.197.22.97)  153.233 ms
+14  177-106-166-23.xd-dynamic.algarnetsuper.com.br (177.106.166.23)  173.466 ms

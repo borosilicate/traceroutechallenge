@@ -1,0 +1,5 @@
+18  *
+19  *
+20  153.red-81-46-81.customer.static.ccgg.telefonica.net (81.46.81.153)  135.026 ms
+21  158.red-81-46-81.customer.static.ccgg.telefonica.net (81.46.81.158)  124.490 ms
+22  86.red-37-13-194.dynamicip.rima-tde.net (37.13.194.86)  721.919 ms

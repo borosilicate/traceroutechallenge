@@ -1,0 +1,5 @@
+15  213.140.51.63 (213.140.51.63)  142.506 ms
+16  ae3-0.0001.corx.01.dus.de.net.telefonica.de (62.53.0.12)  143.963 ms
+17  bundle-ether3.0001.dbrx.01.str.de.net.telefonica.de (62.53.20.71)  129.212 ms
+18  ae0-0.0004.corx.02.str.de.net.telefonica.de (62.53.3.57)  129.658 ms
+19  x5d842e2f.dyn.telefonica.de (93.132.46.47)  158.079 ms !X

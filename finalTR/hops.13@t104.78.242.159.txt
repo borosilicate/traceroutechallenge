@@ -1,0 +1,5 @@
+ 9  be3084.ccr41.iad02.atlas.cogentco.com (154.54.30.66)  15.427 ms
+10  be-202-pe04.ashburn.va.ibone.comcast.net (50.248.118.173)  15.709 ms
+11  be-10130-pe04.ashburn.va.ibone.comcast.net (68.86.82.213)  16.385 ms
+12  be-7922-ar02.taylor.mi.michigan.comcast.net (68.86.90.14)  27.426 ms
+13  a104-78-242-159.deploy.static.akamaitechnologies.com (104.78.242.159)  27.632 ms

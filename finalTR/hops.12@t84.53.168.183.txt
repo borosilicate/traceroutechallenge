@@ -1,0 +1,5 @@
+ 8  ae14.cr2-atl1.ip4.gtt.net (173.205.58.93)  3.441 ms
+ 9  xe-4-2-3.cr5-lon2.ip4.gtt.net (141.136.107.253)  94.310 ms
+10  as5580-gw.cr1-lon2.ip4.gtt.net (46.33.94.238)  94.350 ms
+11  78.152.55.151 (78.152.55.151)  97.887 ms
+12  a84-53-168-183.deploy.akamaitechnologies.com (84.53.168.183)  94.089 ms

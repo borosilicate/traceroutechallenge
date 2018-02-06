@@ -1,0 +1,5 @@
+13  nc-numericable.demarc.cogentco.com (149.6.160.138)  103.749 ms
+14  172.19.133.54 (172.19.133.54)  109.317 ms
+15  213-245-253-98.rev.numericable.fr (213.245.253.98)  99.403 ms
+16  *
+17  ip-196.net-81-220-172.nice.rev.numericable.fr (81.220.172.196)  110.611 ms

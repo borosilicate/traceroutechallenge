@@ -1,0 +1,5 @@
+13  be2183.ccr42.ams03.atlas.cogentco.com (154.54.58.70)  102.058 ms
+14  be2816.ccr42.ham01.atlas.cogentco.com (154.54.38.210)  110.933 ms
+15  149.6.142.42 (149.6.142.42)  114.599 ms
+16  bng-ler-10-ae0.ewe-ip-backbone.de (80.228.232.140)  122.707 ms
+17  dyndsl-091-248-236-067.ewe-ip-backbone.de (91.248.236.67)  147.817 ms !X

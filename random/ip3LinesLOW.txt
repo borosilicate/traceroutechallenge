@@ -1,0 +1,478 @@
+traceroute to 1.183.118.130 (1.183.118.130), 30 hops max, 60 byte packets
+19  219.148.173.98 (219.148.173.98)  284.192 ms * 219.148.165.2 (219.148.165.2)  272.749 ms
+20  123.178.177.122 (123.178.177.122)  244.137 ms  244.362 ms  252.659 ms
+21  1.183.118.130 (1.183.118.130)  241.903 ms  254.593 ms  243.024 ms
+traceroute to 87.123.224.50 (87.123.224.50), 30 hops max, 60 byte packets
+13  62.214.38.57 (62.214.38.57)  127.934 ms  128.125 ms 62.214.38.59 (62.214.38.59)  127.985 ms
+14  62.214.38.6 (62.214.38.6)  129.452 ms  129.600 ms  129.450 ms
+15  i577BE032.versanet.de (87.123.224.50)  136.691 ms !X  136.513 ms !X  137.011 ms !X
+traceroute to 78.208.3.131 (78.208.3.131), 30 hops max, 60 byte packets
+28  * * *
+29  * * *
+30  * * *
+traceroute to 82.154.6.58 (82.154.6.58), 30 hops max, 60 byte packets
+28  * * *
+29  * * *
+30  * * *
+traceroute to 123.110.177.31 (123.110.177.31), 30 hops max, 60 byte packets
+28  * * *
+29  * * *
+30  * * *
+traceroute to 37.134.15.78 (37.134.15.78), 30 hops max, 60 byte packets
+28  * * *
+29  * * *
+30  * * *
+traceroute to 88.219.70.166 (88.219.70.166), 30 hops max, 60 byte packets
+28  * * *
+29  * * *
+30  * * *
+traceroute to 104.110.38.50 (104.110.38.50), 30 hops max, 60 byte packets
+28  * * *
+29  * * *
+30  * * *
+traceroute to 23.6.194.119 (23.6.194.119), 30 hops max, 60 byte packets
+28  * * *
+29  * * *
+30  * * *
+traceroute to 23.72.194.115 (23.72.194.115), 30 hops max, 60 byte packets
+14  12.120.13.162 (12.120.13.162)  62.647 ms  62.793 ms  62.823 ms
+15  12.120.183.84 (12.120.183.84)  64.399 ms  64.331 ms  64.296 ms
+16  a23-72-194-115.deploy.static.akamaitechnologies.com (23.72.194.115)  62.833 ms  62.644 ms  62.643 ms
+traceroute to 138.255.182.10 (138.255.182.10), 30 hops max, 60 byte packets
+16  170.84.29.14 (170.84.29.14)  176.197 ms  175.868 ms  175.892 ms
+17  138.255.183.254 (138.255.183.254)  147.527 ms  146.989 ms  147.013 ms
+18  138.255.182.10 (138.255.182.10)  149.118 ms  149.114 ms  147.596 ms
+traceroute to 175.253.64.202 (175.253.64.202), 30 hops max, 60 byte packets
+18  125.144.31.106 (125.144.31.106)  211.150 ms  246.159 ms  216.558 ms
+19  * * *
+20  175.253.64.202 (175.253.64.202)  271.726 ms  271.634 ms  291.505 ms
+traceroute to 119.134.194.53 (119.134.194.53), 30 hops max, 60 byte packets
+19  183.58.110.66 (183.58.110.66)  306.627 ms  316.280 ms  307.226 ms
+20  119.146.29.182 (119.146.29.182)  314.612 ms  315.029 ms  307.660 ms
+21  119.134.194.53 (119.134.194.53)  281.645 ms  298.343 ms  301.204 ms
+traceroute to 188.82.123.48 (188.82.123.48), 30 hops max, 60 byte packets
+28  * * *
+29  * * *
+30  * * *
+traceroute to 172.73.97.9 (172.73.97.9), 30 hops max, 60 byte packets
+28  * * *
+29  * * *
+30  * * *
+traceroute to 73.36.255.172 (73.36.255.172), 30 hops max, 60 byte packets
+28  * * *
+29  * * *
+30  * * *
+traceroute to 199.59.228.195 (199.59.228.195), 30 hops max, 60 byte packets
+ 8  * * *
+ 9  4.28.58.154 (4.28.58.154)  25.405 ms  25.435 ms  25.305 ms
+10  ar195-228-59-199.11179.rev.aryaka.com (199.59.228.195)  25.325 ms  25.330 ms  25.334 ms
+traceroute to 46.52.191.173 (46.52.191.173), 30 hops max, 60 byte packets
+28  * * *
+29  * * *
+30  * * *
+traceroute to 211.214.175.34 (211.214.175.34), 30 hops max, 60 byte packets
+18  * 10.62.255.21 (10.62.255.21)  192.532 ms *
+19  10.62.255.57 (10.62.255.57)  187.574 ms 58.121.250.190 (58.121.250.190)  190.139 ms  190.122 ms
+20  58.121.250.190 (58.121.250.190)  190.093 ms 211.214.175.34 (211.214.175.34)  186.980 ms *
+traceroute to 76.16.121.96 (76.16.121.96), 30 hops max, 60 byte packets
+28  * * *
+29  * * *
+30  * * *
+traceroute to 60.17.169.242 (60.17.169.242), 30 hops max, 60 byte packets
+17  * 219.158.13.218 (219.158.13.218)  258.638 ms 219.158.106.146 (219.158.106.146)  226.740 ms
+18  * * 113.230.174.202 (113.230.174.202)  217.956 ms
+19  60.17.169.242 (60.17.169.242)  216.730 ms  217.630 ms  216.801 ms
+traceroute to 110.168.56.110 (110.168.56.110), 30 hops max, 60 byte packets
+21  ppp-171-102-254-114.revip18.asianet.co.th (171.102.254.114)  264.987 ms ppp-171-102-254-117.revip18.asianet.co.th (171.102.254.117)  261.447 ms ppp-171-102-254-101.revip18.asianet.co.th (171.102.254.101)  269.138 ms
+22  58-97-121-213.static.asianet.co.th (58.97.121.213)  258.758 ms 58-97-82-5.static.asianet.co.th (58.97.82.5)  258.879 ms 58-97-82-11.static.asianet.co.th (58.97.82.11)  261.298 ms
+23  ppp-110-168-56-110.revip5.asianet.co.th (110.168.56.110)  262.464 ms  260.848 ms  261.993 ms
+traceroute to 172.120.2.234 (172.120.2.234), 30 hops max, 60 byte packets
+14  38.142.10.162 (38.142.10.162)  65.802 ms  67.905 ms  66.466 ms
+15  72.13.94.9 (72.13.94.9)  66.033 ms  65.809 ms  65.814 ms
+16  172.120.2.234 (172.120.2.234)  65.664 ms  65.566 ms  65.639 ms
+traceroute to 79.199.30.134 (79.199.30.134), 30 hops max, 60 byte packets
+10  80.156.162.241 (80.156.162.241)  20.806 ms  20.750 ms  20.939 ms
+11  91.23.246.213 (91.23.246.213)  109.889 ms  109.916 ms  109.917 ms
+12  p4FC71E86.dip0.t-ipconnect.de (79.199.30.134)  129.323 ms !X  129.074 ms !X  128.819 ms !X
+traceroute to 36.45.199.112 (36.45.199.112), 30 hops max, 60 byte packets
+28  * * *
+29  * * *
+30  * * *
+traceroute to 211.74.135.0 (211.74.135.0), 30 hops max, 60 byte packets
+17  r56-142.seed.net.tw (139.175.56.142)  196.692 ms r57-218.seed.net.tw (139.175.57.218)  189.246 ms r58-146.seed.net.tw (139.175.58.146)  195.474 ms
+18  r57-46.seed.net.tw (139.175.57.46)  196.605 ms r57-146.seed.net.tw (139.175.57.146)  200.133 ms  197.084 ms
+19  swtp135-0.adsl.dynamic.seed.net.tw (211.74.135.0)  195.765 ms  204.703 ms  207.808 ms
+traceroute to 186.85.183.16 (186.85.183.16), 30 hops max, 60 byte packets
+28  * * *
+29  * * *
+30  * * *
+traceroute to 94.127.178.130 (94.127.178.130), 30 hops max, 60 byte packets
+16  154.25.9.46 (154.25.9.46)  111.762 ms  111.734 ms  113.093 ms
+17  149.6.140.146 (149.6.140.146)  146.222 ms  146.238 ms  146.208 ms
+18  mskR-pov21-vl163.unilink.ru (79.98.215.18)  149.251 ms * *
+traceroute to 94.12.22.83 (94.12.22.83), 30 hops max, 60 byte packets
+28  * * *
+29  * * *
+30  * * *
+traceroute to 62.227.28.136 (62.227.28.136), 30 hops max, 60 byte packets
+28  * * *
+29  * * *
+30  * * *
+traceroute to 117.31.215.85 (117.31.215.85), 30 hops max, 60 byte packets
+28  * * *
+29  * * *
+30  * * *
+traceroute to 8.29.72.19 (8.29.72.19), 30 hops max, 60 byte packets
+28  * * *
+29  * * *
+30  * * *
+traceroute to 126.218.190.67 (126.218.190.67), 30 hops max, 60 byte packets
+12  * * *
+13  softbank221111179138.bbtec.net (221.111.179.138)  157.995 ms softbank221110228182.bbtec.net (221.110.228.182)  174.141 ms softbank221111193170.bbtec.net (221.111.193.170)  171.679 ms
+14  softbank126218190067.bbtec.net (126.218.190.67)  162.657 ms  163.116 ms  163.250 ms
+traceroute to 121.147.123.121 (121.147.123.121), 30 hops max, 60 byte packets
+19  112.190.201.42 (112.190.201.42)  202.913 ms  206.368 ms 112.190.201.74 (112.190.201.74)  201.185 ms
+20  * * 112.190.201.42 (112.190.201.42)  201.432 ms
+21  112.190.202.22 (112.190.202.22)  201.717 ms 121.147.123.121 (121.147.123.121)  207.598 ms  207.018 ms
+traceroute to 104.35.232.243 (104.35.232.243), 30 hops max, 60 byte packets
+28  * * *
+29  * * *
+30  * * *
+traceroute to 88.187.140.193 (88.187.140.193), 30 hops max, 60 byte packets
+28  * * *
+29  * * *
+30  * * *
+traceroute to 112.250.47.61 (112.250.47.61), 30 hops max, 60 byte packets
+28  * * *
+29  * * *
+30  * * *
+traceroute to 113.8.14.36 (113.8.14.36), 30 hops max, 60 byte packets
+28  * * *
+29  * * *
+30  * * *
+traceroute to 42.238.113.214 (42.238.113.214), 30 hops max, 60 byte packets
+14  pc230.zz.ha.cn (61.168.193.230)  263.982 ms pc14.zz.ha.cn (61.168.255.14)  273.924 ms pc6.zz.ha.cn (61.168.192.6)  273.530 ms
+15  pc154.zz.ha.cn (61.168.129.154)  267.970 ms  264.136 ms pc170.zz.ha.cn (61.168.129.170)  268.911 ms
+16  hn.kd.ny.adsl (42.238.113.214)  265.238 ms  275.452 ms  264.900 ms
+traceroute to 113.116.144.155 (113.116.144.155), 30 hops max, 60 byte packets
+28  * * *
+29  * * *
+30  * * *
+traceroute to 223.93.129.213 (223.93.129.213), 30 hops max, 60 byte packets
+28  * * *
+29  * * *
+30  * * *
+traceroute to 98.187.230.97 (98.187.230.97), 30 hops max, 60 byte packets
+28  * * *
+29  * * *
+30  * * *
+traceroute to 68.53.134.177 (68.53.134.177), 30 hops max, 60 byte packets
+28  * * *
+29  * * *
+30  * * *
+traceroute to 133.242.146.171 (133.242.146.171), 30 hops max, 60 byte packets
+19  * * *
+20  * * *
+21  s31.myssl.jp (133.242.146.171)  180.023 ms  180.063 ms  187.047 ms
+traceroute to 76.172.200.19 (76.172.200.19), 30 hops max, 60 byte packets
+17  agg1.slbhcaay01h.socal.rr.com (72.129.22.55)  76.651 ms  76.644 ms  73.669 ms
+18  agg1.slbhcaay01m.socal.rr.com (24.30.170.114)  58.940 ms  59.117 ms  58.936 ms
+19  cpe-76-172-200-19.socal.res.rr.com (76.172.200.19)  67.746 ms  72.397 ms  66.960 ms
+traceroute to 91.159.93.225 (91.159.93.225), 30 hops max, 60 byte packets
+28  * * *
+29  * * *
+30  * * *
+traceroute to 148.240.18.103 (148.240.18.103), 30 hops max, 60 byte packets
+13  na-200-78-150-58.static.avantel.net.mx (200.78.150.58)  42.261 ms  42.077 ms na-200-78-150-54.static.avantel.net.mx (200.78.150.54)  40.684 ms
+14  * * *
+15  dial-148-240-18-103.zone-1.ip.static-ftth.axtel.net.mx (148.240.18.103)  42.773 ms  41.475 ms  41.951 ms
+traceroute to 178.156.60.165 (178.156.60.165), 30 hops max, 60 byte packets
+28  * * *
+29  * * *
+30  * * *
+traceroute to 150.95.105.48 (150.95.105.48), 30 hops max, 60 byte packets
+28  * * *
+29  * * *
+30  * * *
+traceroute to 98.19.154.167 (98.19.154.167), 30 hops max, 60 byte packets
+28  * * *
+29  * * *
+30  * * *
+traceroute to 47.40.64.231 (47.40.64.231), 30 hops max, 60 byte packets
+28  * * *
+29  * * *
+30  * * *
+traceroute to 220.191.255.158 (220.191.255.158), 30 hops max, 60 byte packets
+28  * * *
+29  * * *
+30  * * *
+traceroute to 93.108.192.145 (93.108.192.145), 30 hops max, 60 byte packets
+28  * * *
+29  * * *
+30  * * *
+traceroute to 76.182.96.128 (76.182.96.128), 30 hops max, 60 byte packets
+28  * * *
+29  * * *
+30  * * *
+traceroute to 124.161.24.23 (124.161.24.23), 30 hops max, 60 byte packets
+28  * * *
+29  * * *
+30  * * *
+traceroute to 72.165.161.93 (72.165.161.93), 30 hops max, 60 byte packets
+ 8  ctl.atl02.atlas.cogentco.com (154.54.10.222)  7.281 ms  4.092 ms  8.388 ms
+ 9  * * *
+10  dca-edge-17.inet.qwest.net (205.171.209.2)  18.406 ms * *
+traceroute to 104.240.16.41 (104.240.16.41), 30 hops max, 60 byte packets
+28  * * *
+29  * * *
+30  * * *
+traceroute to 88.130.214.50 (88.130.214.50), 30 hops max, 60 byte packets
+13  62.214.34.230 (62.214.34.230)  131.433 ms  131.683 ms  131.643 ms
+14  hhb2ic2.versatel.de (62.214.111.102)  141.365 ms 62.214.33.30 (62.214.33.30)  132.483 ms 62.214.111.126 (62.214.111.126)  132.916 ms
+15  i5882D632.versanet.de (88.130.214.50)  173.186 ms !X  172.042 ms !X  175.734 ms !X
+traceroute to 104.172.224.162 (104.172.224.162), 30 hops max, 60 byte packets
+28  * * *
+29  * * *
+30  * * *
+traceroute to 125.109.117.100 (125.109.117.100), 30 hops max, 60 byte packets
+19  130.221.186.220.broad.wz.zj.dynamic.163data.com.cn (220.186.221.130)  292.840 ms 126.221.186.220.broad.wz.zj.dynamic.163data.com.cn (220.186.221.126)  266.424 ms 130.221.186.220.broad.wz.zj.dynamic.163data.com.cn (220.186.221.130)  289.535 ms
+20  220.186.245.157 (220.186.245.157)  260.700 ms  260.830 ms  260.352 ms
+21  125.109.117.100 (125.109.117.100)  276.274 ms  278.311 ms  277.875 ms
+traceroute to 92.216.67.56 (92.216.67.56), 30 hops max, 60 byte packets
+18  188.111.129.219 (188.111.129.219)  106.860 ms 188.111.129.217 (188.111.129.217)  100.884 ms  100.690 ms
+19  188.111.220.3 (188.111.220.3)  104.490 ms  107.159 ms  104.760 ms
+20  ipservice-092-216-067-056.092.216.pools.vodafone-ip.de (92.216.67.56)  128.220 ms !X  129.883 ms !X  121.853 ms !X
+traceroute to 201.102.61.175 (201.102.61.175), 30 hops max, 60 byte packets
+28  * * *
+29  * * *
+30  * * *
+traceroute to 175.20.199.200 (175.20.199.200), 30 hops max, 60 byte packets
+28  * * *
+29  * * *
+30  * * *
+traceroute to 112.43.31.13 (112.43.31.13), 30 hops max, 60 byte packets
+28  * * *
+29  * * *
+30  * * *
+traceroute to 87.1.59.74 (87.1.59.74), 30 hops max, 60 byte packets
+28  * * *
+29  * * *
+30  * * *
+traceroute to 71.184.18.216 (71.184.18.216), 30 hops max, 60 byte packets
+28  * * *
+29  * * *
+30  * * *
+traceroute to 121.54.74.109 (121.54.74.109), 30 hops max, 60 byte packets
+19  121.54.3.69 (121.54.3.69)  212.541 ms  213.477 ms  213.427 ms
+20  121.54.3.70 (121.54.3.70)  216.729 ms  216.810 ms  216.892 ms
+21  121.54.74.109 (121.54.74.109)  218.457 ms  216.923 ms  216.932 ms
+traceroute to 126.22.70.174 (126.22.70.174), 30 hops max, 60 byte packets
+17  * * *
+18  softbank221110222130.bbtec.net (221.110.222.130)  178.901 ms softbank221110222146.bbtec.net (221.110.222.146)  176.864 ms softbank221111163186.bbtec.net (221.111.163.186)  172.030 ms
+19  softbank126022070174.bbtec.net (126.22.70.174)  178.331 ms  178.334 ms  177.709 ms
+traceroute to 123.243.152.12 (123.243.152.12), 30 hops max, 60 byte packets
+28  * * *
+29  * * *
+30  * * *
+traceroute to 66.134.179.162 (66.134.179.162), 30 hops max, 60 byte packets
+11  h-67-102-61-46.dlla.tx.globalcapacity.com (67.102.61.46)  25.584 ms h-67-102-61-42.dlla.tx.globalcapacity.com (67.102.61.42)  25.590 ms  25.623 ms
+12  * * *
+13  h-66-134-179-162.dlla.tx.globalcapacity.com (66.134.179.162)  53.409 ms * *
+traceroute to 60.252.146.221 (60.252.146.221), 30 hops max, 60 byte packets
+28  * * *
+29  * * *
+30  * * *
+traceroute to 97.99.104.25 (97.99.104.25), 30 hops max, 60 byte packets
+28  * * *
+29  * * *
+30  * * *
+traceroute to 5.142.161.109 (5.142.161.109), 30 hops max, 60 byte packets
+28  * * *
+29  * * *
+30  * * *
+traceroute to 96.239.74.100 (96.239.74.100), 30 hops max, 60 byte packets
+28  * * *
+29  * * *
+30  * * *
+traceroute to 177.54.132.34 (177.54.132.34), 30 hops max, 60 byte packets
+28  * * *
+29  * * *
+30  * * *
+traceroute to 1.192.230.104 (1.192.230.104), 30 hops max, 60 byte packets
+28  * * *
+29  * * *
+30  * * *
+traceroute to 209.222.175.157 (209.222.175.157), 30 hops max, 60 byte packets
+28  * * *
+29  * * *
+30  * * *
+traceroute to 2.221.222.93 (2.221.222.93), 30 hops max, 60 byte packets
+28  * * *
+29  * * *
+30  * * *
+traceroute to 82.34.191.49 (82.34.191.49), 30 hops max, 60 byte packets
+28  * * *
+29  * * *
+30  * * *
+traceroute to 90.216.13.198 (90.216.13.198), 30 hops max, 60 byte packets
+28  * * *
+29  * * *
+30  * * *
+traceroute to 112.222.173.233 (112.222.173.233), 30 hops max, 60 byte packets
+15  paix0.tr-cps.internet2.edu (198.32.176.128)  65.684 ms  65.616 ms  65.698 ms
+16  1.213.57.58 (1.213.57.58)  220.922 ms  209.167 ms 1.213.57.54 (1.213.57.54)  206.752 ms
+17  112.222.173.233 (112.222.173.233)  220.863 ms  213.605 ms  193.593 ms
+traceroute to 67.207.152.183 (67.207.152.183), 30 hops max, 60 byte packets
+13  coreb-core6.ord1.rackspace.net (50.56.6.135)  22.566 ms corea-core6.ord1.rackspace.net (50.56.6.133)  22.765 ms coreb-core6.ord1.rackspace.net (50.56.6.135)  22.442 ms
+14  core5-aggr1501a-1.ord1.rackspace.net (50.56.6.111)  22.380 ms  22.588 ms core6-aggr1501a-1.ord1.rackspace.net (23.253.15.193)  22.484 ms
+15  dsmailsolutions.com (67.207.152.183)  22.717 ms  22.684 ms  22.663 ms
+traceroute to 74.110.227.152 (74.110.227.152), 30 hops max, 60 byte packets
+28  * * *
+29  * * *
+30  * * *
+traceroute to 90.214.222.59 (90.214.222.59), 30 hops max, 60 byte packets
+28  * * *
+29  * * *
+30  * * *
+traceroute to 173.189.131.253 (173.189.131.253), 30 hops max, 60 byte packets
+28  * * *
+29  * * *
+30  * * *
+traceroute to 171.224.253.220 (171.224.253.220), 30 hops max, 60 byte packets
+28  * * *
+29  * * *
+30  * * *
+traceroute to 89.99.82.126 (89.99.82.126), 30 hops max, 60 byte packets
+28  * * *
+29  * * *
+30  * * *
+traceroute to 125.154.86.252 (125.154.86.252), 30 hops max, 60 byte packets
+20  112.189.83.122 (112.189.83.122)  195.763 ms  194.846 ms 119.223.209.150 (119.223.209.150)  189.823 ms
+21  121.136.163.18 (121.136.163.18)  193.705 ms 112.189.83.122 (112.189.83.122)  191.174 ms 121.136.163.18 (121.136.163.18)  197.715 ms
+22  125.154.86.252 (125.154.86.252)  191.185 ms  192.137 ms  191.155 ms
+traceroute to 188.107.158.32 (188.107.158.32), 30 hops max, 60 byte packets
+19  188.111.217.109 (188.111.217.109)  113.225 ms  112.874 ms 188.111.217.197 (188.111.217.197)  115.582 ms
+20  188.111.217.147 (188.111.217.147)  122.079 ms  124.210 ms  121.955 ms
+21  dslb-188-107-158-032.188.107.pools.vodafone-ip.de (188.107.158.32)  131.408 ms !X  127.687 ms !X  132.575 ms !X
+traceroute to 104.31.177.139 (104.31.177.139), 30 hops max, 60 byte packets
+ 8  if-ae-43-2.tcore1.A56-Atlanta.as6453.net (64.86.113.149)  3.659 ms  3.660 ms  3.564 ms
+ 9  64.86.113.90 (64.86.113.90)  3.813 ms  3.783 ms  3.800 ms
+10  104.31.177.139 (104.31.177.139)  3.341 ms  3.369 ms  3.331 ms
+traceroute to 77.134.191.24 (77.134.191.24), 30 hops max, 60 byte packets
+28  * * *
+29  * * *
+30  * * *
+traceroute to 210.14.72.75 (210.14.72.75), 30 hops max, 60 byte packets
+28  * * *
+29  * * *
+30  * * *
+traceroute to 60.64.137.7 (60.64.137.7), 30 hops max, 60 byte packets
+12  softbank221111179170.bbtec.net (221.111.179.170)  171.752 ms  171.699 ms  173.027 ms
+13  softbank221111179170.bbtec.net (221.111.179.170)  171.714 ms  159.106 ms  172.677 ms
+14  softbank060064137007.bbtec.net (60.64.137.7)  182.208 ms  183.403 ms  168.466 ms
+traceroute to 2.223.194.52 (2.223.194.52), 30 hops max, 60 byte packets
+28  * * *
+29  * * *
+30  * * *
+traceroute to 23.77.2.173 (23.77.2.173), 30 hops max, 60 byte packets
+ 9  TenGE0-0-0-6.clbr01.hkg04.pccwbtn.net (63.223.17.142)  228.454 ms TenGE0-0-0-3.clbr01.hkg04.pccwbtn.net (63.223.17.130)  236.730 ms TenGE0-0-0-2.clbr01.hkg04.pccwbtn.net (63.223.17.126)  212.769 ms
+10  akamai.be12.br04.hkg15.pccwbt.net (63.216.143.226)  225.379 ms  225.331 ms  233.680 ms
+11  a23-77-2-173.deploy.static.akamaitechnologies.com (23.77.2.173)  233.163 ms  224.871 ms  218.456 ms
+traceroute to 203.170.116.42 (203.170.116.42), 30 hops max, 60 byte packets
+15  111.118.20.42 (111.118.20.42)  184.581 ms  193.736 ms  188.076 ms
+16  * * *
+17  203.170.116.42 (203.170.116.42)  197.992 ms  208.037 ms  198.665 ms
+traceroute to 104.108.227.108 (104.108.227.108), 30 hops max, 60 byte packets
+11  * * *
+12  182.79.181.181 (182.79.181.181)  285.727 ms 182.79.181.165 (182.79.181.165)  260.963 ms  302.362 ms
+13  a104-108-227-108.deploy.static.akamaitechnologies.com (104.108.227.108)  261.017 ms  261.134 ms  298.572 ms
+traceroute to 220.118.236.138 (220.118.236.138), 30 hops max, 60 byte packets
+28  * * *
+29  * * *
+30  * * *
+traceroute to 187.159.111.154 (187.159.111.154), 30 hops max, 60 byte packets
+28  * * *
+29  * * *
+30  * * *
+traceroute to 186.7.153.91 (186.7.153.91), 30 hops max, 60 byte packets
+28  * * *
+29  * * *
+30  * * *
+traceroute to 73.198.83.106 (73.198.83.106), 30 hops max, 60 byte packets
+28  * * *
+29  * * *
+30  * * *
+traceroute to 173.30.170.82 (173.30.170.82), 30 hops max, 60 byte packets
+28  * * *
+29  * * *
+30  * * *
+traceroute to 189.148.157.139 (189.148.157.139), 30 hops max, 60 byte packets
+28  * * *
+29  * * *
+30  * * *
+traceroute to 74.6.96.43 (74.6.96.43), 30 hops max, 60 byte packets
+13  et-1-1-0.clr2-a-gdc.bf2.yahoo.com (74.6.122.57)  31.739 ms et-19-0-0.clr1-a-gdc.bf2.yahoo.com (74.6.122.41)  31.864 ms et-0-1-0.clr2-a-gdc.bf2.yahoo.com (74.6.122.25)  31.689 ms
+14  UNKNOWN-74-6-122-X.yahoo.com (74.6.122.139)  32.471 ms UNKNOWN-74-6-122-X.yahoo.com (74.6.122.143)  32.476 ms UNKNOWN-74-6-122-X.yahoo.com (74.6.122.141)  37.297 ms
+15  prod-admin04.hff01.bf2.yahoo.com (74.6.96.43)  31.785 ms  31.734 ms  31.740 ms
+traceroute to 123.23.34.120 (123.23.34.120), 30 hops max, 60 byte packets
+28  * * *
+29  * * *
+30  * * *
+traceroute to 104.131.252.123 (104.131.252.123), 30 hops max, 60 byte packets
+10  if-ae-12-2.tcore1.N75-New-York.as6453.net (66.110.96.5)  20.528 ms  20.390 ms  20.518 ms
+11  * * *
+12  104.131.252.123 (104.131.252.123)  23.260 ms  23.547 ms  23.559 ms
+traceroute to 88.250.101.123 (88.250.101.123), 30 hops max, 60 byte packets
+17  93.155.0.242 (93.155.0.242)  291.520 ms  291.531 ms  289.105 ms
+18  * * *
+19  88.250.101.123.static.ttnet.com.tr (88.250.101.123)  159.514 ms  155.494 ms  152.041 ms
+traceroute to 76.54.106.251 (76.54.106.251), 30 hops max, 60 byte packets
+13  ae1.brfdwifb06h.midwest.rr.com (65.31.113.83)  41.034 ms  45.806 ms  44.824 ms
+14  ae2.brfdwifb03m.wi.rr.com (24.164.239.194)  25.402 ms  25.444 ms  25.432 ms
+15  76.54.106.251 (76.54.106.251)  35.093 ms  40.869 ms  40.839 ms
+traceroute to 76.97.254.86 (76.97.254.86), 30 hops max, 60 byte packets
+10  68.85.172.26 (68.85.172.26)  8.503 ms 68.85.172.66 (68.85.172.66)  7.885 ms 68.85.172.26 (68.85.172.26)  8.500 ms
+11  te-6-1-acr01.y1rome.ga.atlanta.comcast.net (68.85.233.102)  6.380 ms  6.448 ms  6.449 ms
+12  c-76-97-254-86.hsd1.ga.comcast.net (76.97.254.86)  38.947 ms  33.813 ms  23.875 ms
+traceroute to 222.235.134.219 (222.235.134.219), 30 hops max, 60 byte packets
+19  10.67.252.35 (10.67.252.35)  204.132 ms 10.67.252.19 (10.67.252.19)  193.046 ms 10.67.2.146 (10.67.2.146)  195.004 ms
+20  10.67.2.150 (10.67.2.150)  194.216 ms 10.67.2.154 (10.67.2.154)  189.139 ms 10.67.2.150 (10.67.2.150)  194.494 ms
+21  222.235.134.219 (222.235.134.219)  231.903 ms  231.903 ms  231.893 ms
+traceroute to 77.102.191.21 (77.102.191.21), 30 hops max, 60 byte packets
+28  * * *
+29  * * *
+30  * * *
+traceroute to 120.78.133.17 (120.78.133.17), 30 hops max, 60 byte packets
+28  * * *
+29  * * *
+30  * * *
+traceroute to 130.193.67.20 (130.193.67.20), 30 hops max, 60 byte packets
+28  * * *
+29  * * *
+30  * * *
+traceroute to 46.207.5.126 (46.207.5.126), 30 hops max, 60 byte packets
+11  195.3.90.66 (195.3.90.66)  120.972 ms  121.171 ms  121.182 ms
+12  * * *
+13  046207005126.atmpu0025.highway.a1.net (46.207.5.126)  148.156 ms  147.926 ms  150.230 ms
+traceroute to 120.78.87.252 (120.78.87.252), 30 hops max, 60 byte packets
+28  * * *
+29  * * *
+30  * * *
+traceroute to 201.166.165.9 (201.166.165.9), 30 hops max, 60 byte packets
+15  * * *
+16  * * *
+17  pc2011661659.optele.net (201.166.165.9)  95.757 ms * *
+traceroute to 151.80.161.246 (151.80.161.246), 30 hops max, 60 byte packets
+14  be5.sbg-3b-6k.fr.eu (91.121.131.141)  103.586 ms  101.255 ms be5.sbg-3a-6k.fr.eu (91.121.131.139)  103.740 ms
+15  ip246.ip-151-80-161.eu (151.80.161.246)  101.478 ms  101.452 ms  101.448 ms
+16  ip246.ip-151-80-161.eu (151.80.161.246)  101.414 ms !X  102.557 ms !X  101.598 ms !X
+traceroute to 88.174.151.233 (88.174.151.233), 30 hops max, 60 byte packets
+28  * * *
+29  * * *
+30  * * *
+traceroute to 127.125.208.91 (127.125.208.91), 55 hops max, 60 byte packets
+traceroute to 127.125.208.91 (127.125.208.91), 55 hops max, 60 byte packets
+ 1  127.125.208.91 (127.125.208.91)  0.026 ms  0.014 ms  0.016 ms
+traceroute to 127.138.13.131 (127.138.13.131), 55 hops max, 60 byte packets
+traceroute to 127.138.13.131 (127.138.13.131), 55 hops max, 60 byte packets
+ 1  127.138.13.131 (127.138.13.131)  0.022 ms  0.012 ms  0.010 ms

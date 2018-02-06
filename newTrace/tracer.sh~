@@ -1,0 +1,24 @@
+#!/bin/bash                                                                                                                                                                
+# Attempt finding longest thingy                                                                                                                                           
+y=256;
+x=31;
+
+for ((numb=1;numb<10000;numb++))
+{
+#newIP
+#a=$((192+$RANDOM%x))
+#b=$(($RANDOM%y))
+c=$(($RANDOM%y))
+d=$(($RANDOM%y))
+temperIP=212'.'41'.'$c'.'$d
+if  ping -W 3 -q  -c 1  -b $temperIP
+then
+traceroute -m 255  $temperIP >> [$a]temp.txt
+tail  [$a]temp.txt >> box.txt
+rm [$a]temp.txt
+else
+#FAILED IP  added to failed IP adresses                                                                                                                                   
+echo $tempIP>>FAILED_ping.txt
+
+fi
+}

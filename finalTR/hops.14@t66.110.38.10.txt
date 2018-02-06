@@ -1,0 +1,5 @@
+10  tata.iad02.atlas.cogentco.com (154.54.13.206)  21.159 ms
+11  if-ae-36-2.tcore2.LVW-Los-Angeles.as6453.net (216.6.87.111)  77.206 ms
+12  if-ae-2-2.tcore1.LVW-Los-Angeles.as6453.net (66.110.59.1)  81.198 ms
+13  if-ae-1-2.tcore2.SQN-San-Jose.as6453.net (63.243.205.2)  77.016 ms
+14  66.110.38.10 (66.110.38.10)  77.045 ms

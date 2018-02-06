@@ -1,0 +1,5 @@
+12  ae-4.r06.plalca01.us.bb.gin.ntt.net (129.250.4.118)  61.374 ms
+13  ae-1.pldt.plalca01.us.bb.gin.ntt.net (157.238.179.226)  217.721 ms
+14  210.213.130.157.static.pldt.net (210.213.130.157)  213.105 ms
+15  210.213.128.21.static.pldt.net (210.213.128.21)  201.740 ms
+16  a23-37-26-127.deploy.static.akamaitechnologies.com (23.37.26.127)  225.428 ms

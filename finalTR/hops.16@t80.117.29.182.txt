@@ -1,0 +1,5 @@
+12  ibs-resid.milano1.mil.seabone.net (195.22.192.109)  134.700 ms
+13  *
+14  *
+15  *
+16  host182-29-dynamic.117-80-r.retail.telecomitalia.it (80.117.29.182)  136.040 ms

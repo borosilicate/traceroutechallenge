@@ -1,0 +1,5 @@
+13  *
+14  ae-1-rur01.wallisville.tx.houston.comcast.net (68.85.246.62)  39.134 ms
+15  lag-1-acr01.wallisville.tx.houston.comcast.net (68.85.252.210)  36.766 ms
+16  c-98-196-124-65.hsd1.tx.comcast.net (98.196.124.65)  43.844 ms
+17  c-98-196-124-65.hsd1.tx.comcast.net (98.196.124.65)  44.969 ms

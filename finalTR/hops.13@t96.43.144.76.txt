@@ -1,0 +1,5 @@
+ 9  SALESFORCE.bear1.Washington111.Level3.net (4.53.116.122)  15.939 ms
+10  xe-4-1-1--edge1-was.net.sfdc.net (13.108.1.191)  15.962 ms
+11  xe-3-1-0.edge1-chi.net.salesforce.com (13.108.1.4)  29.276 ms
+12  96.43.144.205 (96.43.144.205)  29.342 ms
+13  smtp13-chi.mta.salesforce.com (96.43.144.76)  30.665 ms

@@ -1,0 +1,5 @@
+ 8  *
+ 9  xe-1-1-3.r01.chwahk01.hk.bb.bgp.net (63.216.143.194)  228.630 ms
+10  ae8-1.r01.shtnhk02.hk.bb.bgp.net (103.198.146.37)  233.777 ms
+11  *
+12  kelsey.mykelsey3.com (216.224.120.22)  222.006 ms
