@@ -1,5 +1,5 @@
 # traceroutechallenge
-This was the extra credit assignment from ny networks class:
+This was the extra credit assignment from my networks class:
 ######################################
 Traceroute Challenge (Extra Credit)
 Here is the challenge:
